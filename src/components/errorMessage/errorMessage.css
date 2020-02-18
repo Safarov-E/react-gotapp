@@ -1,0 +1,9 @@
+.random-block img{
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+.messageError {
+    text-align: center;
+    display: block;
+}
